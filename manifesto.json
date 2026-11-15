@@ -1,16 +1,16 @@
 {
   "canal": "estavel",
-  "gerado_em": "2026-11-15T12:43:54.7707314-03:00",
+  "gerado_em": "2026-11-15T13:00:29.8345413-03:00",
   "pacotes": [
     {
       "id": "shell",
       "nome": "VitalisShell",
-      "versao": "1.11.0",
-      "descricao": "VitalisShell versão 1.11.0",
+      "versao": "1.12.0",
+      "descricao": "VitalisShell versão 1.12.0",
       "tipo": "Sistema",
-      "url": "/pacotes/shell-1.11.0.exe",
+      "url": "/pacotes/shell-1.12.0.exe",
       "arquivo": "vitalis-shell.exe",
-      "sha256": "750c1e5915889e2af69b026296eb2917e2509b2fd8f40bd633b07aa90932a051",
+      "sha256": "ddcdfeb386d81e5da51a252310c2ef108d481fcb59f45ce0f9d4389250e2cc2c",
       "bytes": 1739264,
       "obrigatorio": false,
       "reiniciar": true
@@ -18,12 +18,12 @@
     {
       "id": "nucleo",
       "nome": "Núcleo do Vitalis OS",
-      "versao": "1.11.0",
-      "descricao": "Núcleo do Vitalis OS versão 1.11.0",
+      "versao": "1.12.0",
+      "descricao": "Núcleo do Vitalis OS versão 1.12.0",
       "tipo": "Sistema",
-      "url": "/pacotes/nucleo-1.11.0.exe",
+      "url": "/pacotes/nucleo-1.12.0.exe",
       "arquivo": "vitalis.exe",
-      "sha256": "e6ebf2a4edff71f19b34b4ab31aea67283d4b9e41516f10d9804225110d5a8e6",
+      "sha256": "1f187bb2e0a1e3a771202beb53ad520a0a5bc2c88222f6037f51ceba6badb8f7",
       "bytes": 1098752,
       "obrigatorio": false,
       "reiniciar": false
@@ -31,29 +31,29 @@
     {
       "id": "boasvindas",
       "nome": "Boas-vindas do Vitalis OS",
-      "versao": "1.11.0",
-      "descricao": "Boas-vindas do Vitalis OS versão 1.11.0",
+      "versao": "1.12.0",
+      "descricao": "Boas-vindas do Vitalis OS versão 1.12.0",
       "tipo": "Sistema",
-      "url": "/pacotes/boasvindas-1.11.0.exe",
+      "url": "/pacotes/boasvindas-1.12.0.exe",
       "arquivo": "vitalis-boasvindas.exe",
-      "sha256": "8b1ae5b9a619c7df220ac875105c4b860f88ff9534b6f933aa01bf22fbd44931",
-      "bytes": 801792,
+      "sha256": "8c4723579ccbdaf4ff69945d384ab35cfbcc945c2ece355963dd8747cd3265b1",
+      "bytes": 806400,
       "obrigatorio": false,
       "reiniciar": false
     },
     {
       "id": "atualizador",
       "nome": "Atualizações do Vitalis OS",
-      "versao": "1.11.0",
-      "descricao": "Atualizações do Vitalis OS versão 1.11.0",
+      "versao": "1.12.0",
+      "descricao": "Atualizações do Vitalis OS versão 1.12.0",
       "tipo": "Sistema",
-      "url": "/pacotes/atualizador-1.11.0.exe",
+      "url": "/pacotes/atualizador-1.12.0.exe",
       "arquivo": "vitalis-atualizador.exe",
-      "sha256": "8b89f7c2446b10c0b9b813267abc38a8fcd211ca526fce335480ef5d336271ee",
+      "sha256": "b8d1425ff204e12970043391f450ad6d8c72c24d7d05d735f6e1a9d541eebe41",
       "bytes": 762880,
       "obrigatorio": false,
       "reiniciar": false
     }
   ],
-  "assinatura": "shIaPfqP9KniQXiNvj03Zf0pLWcV7LWT2UgSYhhRnP0loA/pKxLs3LHI7GWuPOI8kC1z2YC8qbruh3XM1DgBSfTe/CjtpiFieBxMm4GgKhiv9vXum2bK1iPq7zlvxyS1yFb351RCsjP3i2Ay/uuNErTJcSBepqpApA2ndybyXCUWyG1g6sYZ9OA/+6n7hDENsPxSrJsiaLOo7TyEWgWDmfhoKqUfnYfZroCaNqBCug0SJus7IzUvdODFkdzkAj7F4W6AwlLAn4AD5NhoWlHI4lYf4JhXhTVBytKmkBs43DuYyozPt6GnMPytQM4rHwuRfHK4sUCiu/lOwrakufeXtWNbj00Tuj06yPs7XB712ESoHYejPt9oNOaFEJkcYLImNNE4ThBo5mDvt+UxSEu/yHSMTo/Id45vBsuBj7fz7usOCQVevWf22u7zpNbZF/it86CK8RYnpiwrPYL9ah3p3tsixxI3qqIAFCzHLCAOarOFx+ttqHv742gyV+YmSzH2"
+  "assinatura": "rLptPlGkScsVOY3hd+qkQ2EghQbslVpj9I8rqC2xOVIEp6rSc/UHNfYWqsKWbvwG3rbx0Ajb/tPOeIZZqz9DK3hIgAAu5LHQvDTLcxifhzLybU+9HXA7/sk4ANi8askXBKUpynuPQFN/vUvGtMHfWVXs9xD/Z+WFcdXq0vRwpx3FFte1cUq/RqV0IdsVdKYiI/Lw79Fo5HAByDaunpugUtKQ8epAYIjFJi6QQmcvlkgbMMO5GfFiL5wrURsFsWquL1yt7xocR5T/TTzzSpqMSIlin3bGpc6YgCBP9n9cvuGZtZ6ScDS0uTGIsP6Cowhi9YzPNdtI6KeMuFNJbGSg94RrgeeeWeWkTcXME7yKYfUNzi3KlYrx4jwDDJCtgxXSh8NbhTXQBt+DTaBJhFcv5ic2liKjxvFde+DLxwb14V1s0gxxwbwwpA+5/iwHJWMoUFHAllxgrTOvenDuJRibHkgtIeyv1Psy9ZF121dr0FFEQ/LVuIJBtoDeWyHKOgjk"
 }
