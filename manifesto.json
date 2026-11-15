@@ -1,14 +1,14 @@
 {
   "canal": "estavel",
-  "gerado_em": "2026-11-15T18:56:50.6901018-03:00",
+  "gerado_em": "2026-11-15T19:09:28.7095022-03:00",
   "pacotes": [
     {
       "id": "shell",
       "nome": "VitalisShell",
-      "versao": "1.22.0",
-      "descricao": "VitalisShell versão 1.22.0",
+      "versao": "1.23.0",
+      "descricao": "VitalisShell versão 1.23.0",
       "tipo": "Sistema",
-      "url": "/pacotes/shell-1.22.0.exe",
+      "url": "/pacotes/shell-1.23.0.exe",
       "arquivo": "vitalis-shell.exe",
       "sha256": "3ac36af94635dd07cb96c90ec76e1b58980e5934f25dc092e9946f4ae58830bf",
       "bytes": 1739264,
@@ -18,10 +18,10 @@
     {
       "id": "nucleo",
       "nome": "Núcleo do Vitalis OS",
-      "versao": "1.22.0",
-      "descricao": "Núcleo do Vitalis OS versão 1.22.0",
+      "versao": "1.23.0",
+      "descricao": "Núcleo do Vitalis OS versão 1.23.0",
       "tipo": "Sistema",
-      "url": "/pacotes/nucleo-1.22.0.exe",
+      "url": "/pacotes/nucleo-1.23.0.exe",
       "arquivo": "vitalis.exe",
       "sha256": "c89cc4d13d11da681ca8cf3db9355538fc64436db23f15ebc2aebdf8bd2051b1",
       "bytes": 1118720,
@@ -31,23 +31,23 @@
     {
       "id": "boasvindas",
       "nome": "Boas-vindas do Vitalis OS",
-      "versao": "1.22.0",
-      "descricao": "Boas-vindas do Vitalis OS versão 1.22.0",
+      "versao": "1.23.0",
+      "descricao": "Boas-vindas do Vitalis OS versão 1.23.0",
       "tipo": "Sistema",
-      "url": "/pacotes/boasvindas-1.22.0.exe",
+      "url": "/pacotes/boasvindas-1.23.0.exe",
       "arquivo": "vitalis-boasvindas.exe",
-      "sha256": "b60e90d0effad7e6a1688b5de868b92fc9b7eb0be6731fdd55b0c60ce0831779",
-      "bytes": 825856,
+      "sha256": "c5157c95e13faf2e526987f859d83b6bc010d1d8d4f3f176db77691f1a3b2a2d",
+      "bytes": 826880,
       "obrigatorio": false,
       "reiniciar": false
     },
     {
       "id": "atualizador",
       "nome": "Atualizações do Vitalis OS",
-      "versao": "1.22.0",
-      "descricao": "Atualizações do Vitalis OS versão 1.22.0",
+      "versao": "1.23.0",
+      "descricao": "Atualizações do Vitalis OS versão 1.23.0",
       "tipo": "Sistema",
-      "url": "/pacotes/atualizador-1.22.0.exe",
+      "url": "/pacotes/atualizador-1.23.0.exe",
       "arquivo": "vitalis-atualizador.exe",
       "sha256": "83dcbf45f631529d56ad9575336dc1f8737e8c3e4fce6912a9d6a5a133e99824",
       "bytes": 766464,
@@ -55,5 +55,5 @@
       "reiniciar": false
     }
   ],
-  "assinatura": "mTqlNcvkf+cmapSKqBnNsb9Qn2OqXD8RZ0xmBvMGhPWk6qna53+YCXFHWr4h8NmN4o7w5dmlENDGx22jfXQjAvsMO8ylQJqrKRNhEVrvVpV+OYUbCLxbNJ4cY+vhRNbBsdp5Cq/ydSrh6pttc6B0SiQkPcpKgPfDDS/VoDYTZHMnDCooBvbQYVqa+tC2PEsyXOqZRht/TzIaleLMZZWdu20/77FobXizVWjMlneN1qnu34/XptLvPo1gA1v8Q4AUJ+YrrhYEaK+OdjE+TL/eKZh2M3DK/z2hXPuMcMl0xuOs2vWiBtn52wSPP2man+VXFDjAl8FUmqoWCCVV+uEDEwdGUDIJ7EvaTYq28I/VNLAp6cm0Wl13c3ZNlFypYj/SnPq9PDkMuPiFOJ3ZJYfCwrrTsLHr5R1whgtoZILQfAbKDnaSQxpS2VsaXyksqX2yQdiMhouO+jrCAw2Ov6UiwEd25jY5hSqr1cOksvMPc47FN0hZ2C22ExZ6NmvHsJMI"
+  "assinatura": "HnW7cQyZp0mB4ATrQJLcd1z1WYt2HCZppmHoW34XcFvqYKklB8aucWgGDKXhOS+YKl5pAx2gvVy9s1vTkO6h1mst7ttJvgTppS/RlR/MBMiAVM91Z12MP1hsWcKJvtqqDjBan6lab7c0zJ6Yi8fU8kvM2n7vNcF/ZNhwZCHfGVMG6mARg4nG1p5JT0ptUcsH/IKth0lTiYaNWmhobV+Hgc1nGPGgv0j7Pi4yuRHibgW5tMSox3w0RPyukezeUeiYPbwDKxme4l2HBSfL81uxxXA5xE/eMyYyrhP5IXqR7KVsVWK907EkqkLVDRpAoLUscuSBefoBakw7bd5fIWHgk2+8QzAf5WOhaPkAemtg4ra+zkT4rJKIs/7rloRmNP7lJPwtoLDTBLdG7ZpTX9B6XJSUd6JTV+Sw0VWFGIcqTLqzcSeY5nSYXm5MRMIh3W2GVOHj4QBXLQcGekHrsSrQbd5gizmveNjFaSTJ5YcNGmR9ZFqpe9H3dGi7/c+GHfeg"
 }
