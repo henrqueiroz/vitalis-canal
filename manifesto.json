@@ -1,14 +1,14 @@
 {
   "canal": "estavel",
-  "gerado_em": "2026-11-15T16:45:20.3429676-03:00",
+  "gerado_em": "2026-11-15T16:49:51.7384991-03:00",
   "pacotes": [
     {
       "id": "shell",
       "nome": "VitalisShell",
-      "versao": "1.19.0",
-      "descricao": "VitalisShell versão 1.19.0",
+      "versao": "1.20.0",
+      "descricao": "VitalisShell versão 1.20.0",
       "tipo": "Sistema",
-      "url": "/pacotes/shell-1.19.0.exe",
+      "url": "/pacotes/shell-1.20.0.exe",
       "arquivo": "vitalis-shell.exe",
       "sha256": "8b13cd777917b816704056b9f707b2e8a0e4f47e20c858c8260e16d687b0e58f",
       "bytes": 1739264,
@@ -18,10 +18,10 @@
     {
       "id": "nucleo",
       "nome": "Núcleo do Vitalis OS",
-      "versao": "1.19.0",
-      "descricao": "Núcleo do Vitalis OS versão 1.19.0",
+      "versao": "1.20.0",
+      "descricao": "Núcleo do Vitalis OS versão 1.20.0",
       "tipo": "Sistema",
-      "url": "/pacotes/nucleo-1.19.0.exe",
+      "url": "/pacotes/nucleo-1.20.0.exe",
       "arquivo": "vitalis.exe",
       "sha256": "f9eefe5287f482b193213d2061127a9c14af4949f3c23924622d38c750aee1fe",
       "bytes": 1106944,
@@ -31,23 +31,23 @@
     {
       "id": "boasvindas",
       "nome": "Boas-vindas do Vitalis OS",
-      "versao": "1.19.0",
-      "descricao": "Boas-vindas do Vitalis OS versão 1.19.0",
+      "versao": "1.20.0",
+      "descricao": "Boas-vindas do Vitalis OS versão 1.20.0",
       "tipo": "Sistema",
-      "url": "/pacotes/boasvindas-1.19.0.exe",
+      "url": "/pacotes/boasvindas-1.20.0.exe",
       "arquivo": "vitalis-boasvindas.exe",
-      "sha256": "2d9f3eb8b940ed67a1af9752635f7e40f8b840cd75c9028e263132fd65c340c9",
-      "bytes": 825344,
+      "sha256": "601c38aeb77b4d56d7f23b4088a7ccdf78f386bf1e2951ab433a6b61874ed79f",
+      "bytes": 825856,
       "obrigatorio": false,
       "reiniciar": false
     },
     {
       "id": "atualizador",
       "nome": "Atualizações do Vitalis OS",
-      "versao": "1.19.0",
-      "descricao": "Atualizações do Vitalis OS versão 1.19.0",
+      "versao": "1.20.0",
+      "descricao": "Atualizações do Vitalis OS versão 1.20.0",
       "tipo": "Sistema",
-      "url": "/pacotes/atualizador-1.19.0.exe",
+      "url": "/pacotes/atualizador-1.20.0.exe",
       "arquivo": "vitalis-atualizador.exe",
       "sha256": "ce4d06e1a90a45dea6d8703b3cf2fda721afbea25c6f113e892ef02df7e3d9ad",
       "bytes": 766464,
@@ -55,5 +55,5 @@
       "reiniciar": false
     }
   ],
-  "assinatura": "KY2SA2UXO32AV618+IUWOdpWLpfvt6J1e8er2huzI1/cKysOYUDxXuPhFQ55tEvzBBf+V2j8k+UxAHDPGTKcvCFJeNp6inWourbzGSpcoyl+r1QmqpW9MZXfig1yWAX5fosHBmGxiozldmqwohoC/NWs12brhn7hKNoVVT1R4bW129zKAiyFvDcnxfp2Oh0xrsrl6R3v/mZ0sKR2Kovgjb8SixOBQ7bZW4JJrFcpBw+EHxnOnkG+O1oD8IgSC+YNWhsKUTKllw622Sm3uXXxU+no1PTbiYYh6P2m6G1sNV7Z0f+UHkOUl1fOqem4UH2dH7DAIOZgEwa+/vglu4kHWF05XRa1sSLtYyer5fn4hVKCs+o39NTGibZMQz1w1+MQDD7zsSu2bMAhFYOfdq0cInyPLCZMoeroWpRBUclqWZOyPzwOMsQG5+ab1Zjh1LBb87rGamYk3MFGj0zw2/R3ibsn/FwVyOakWvpe8rbUP9FBIPmZsEyvj9sUuXWtRSib"
+  "assinatura": "ELvQLBmSUJT9yFWj/N0V5syxHgD+bQY35DNLCRu36BvddEOkrZ5+SVmrZVQdyGYEXXmTL0ZyNO6+T8+Me1aFVs/zDp4I3VVIPZxdrl9LbCUBDq2/rNWMLo4ZVvae2RZSDIRKQeWuIJwqd6m4qk9o1ts6RBcDGgjg7pKU67eo2PEJwgWorGxhfWrS0wM+RMLZISq7VES4wITbo7BGunNqigQa39xNznxn642fzuh2+17JXceHpa94+WVcFEiE3yyc9KSzvZTh1cMs4JfqEMggb6eWEM/yj8SyLTM/AEAWHe3fa1flQ/7nEEvEHPj84PwPc6JaJF6BPMJOrQ/aybyrSblgIYhhNrLgdl1FOanLUvmrdq7lmT9g2OWxDLL5uXsn7nh/7GzpJfj6hp6dAZ8Cryn4u/9vnKuPbuvuO9dUIZUQfni9GAfgk0K6LKr8dcQE8rpFCxUH3pRIgIwLXubxb75AI1bbhXOc4mSau4UQaw22vlhBu9ncPnq4dKw0zU0O"
 }
