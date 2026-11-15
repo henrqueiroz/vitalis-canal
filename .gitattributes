@@ -1,0 +1,9 @@
+# Nada aqui é texto para o git mexer.
+#
+# Um .exe em que o git trocasse LF por CRLF chegaria à máquina com o SHA-256
+# diferente do que o manifesto promete — e a atualização passaria a ser
+# recusada sem que nada no canal parecesse errado. O manifesto também fica
+# fora da conversão, por disciplina: ele é conferido byte a byte em outros
+# lugares e não há motivo para o git reescrevê-lo.
+* -text
+pacotes/** binary
